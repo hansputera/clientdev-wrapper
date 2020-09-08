@@ -1,0 +1,12 @@
+{
+  "name": "clientdev-api",
+  "version": "1.0.0",
+  "description": "API Wrapper",
+  "main": "index.js",
+  "author": "Hanif",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "typescript": "^4.0.2"
+  }
+}
