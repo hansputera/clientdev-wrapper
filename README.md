@@ -3,6 +3,7 @@ ES6
 import { ClientDEV } from "./index";
 ```
 
-> ES6
+ES6 higher
 ```js
-const { ClientDEV } = require("./index");```
+const { ClientDEV } = require("./index");
+```
